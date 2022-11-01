@@ -27,7 +27,7 @@ I also applied my own color scheme and have added some hover effects on the nav 
 
 
 ### Here is the deployed site; 
-https://sam010000101.github.io/accessibility-review/
+https://sam010000101.github.io/my-portfolio/
 
 
 ## Table of Contents
