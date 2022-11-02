@@ -75,7 +75,7 @@ h2, p, ol, a {
 
 .hero-image {
     position: relative;
-    background-image: url("/assets/images/02-hero-bg.jpg");
+    background-image: url("./assets/images/02-hero-bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
